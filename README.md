@@ -7,7 +7,7 @@
   - [TerapIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/terapin)  
   - [PeladIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/peladin)  
 
-- 📫 Como me encontrar: **bebesads@gmail.com**
+- 📫 Como me encontrar: **saulojosens@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
