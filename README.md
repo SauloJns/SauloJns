@@ -2,12 +2,11 @@
 <h3 align="center">Sou estudante de Engenharia de Software, apaixonado por desenvolvimento e tecnologia. Aqui você encontra meus projetos e experiências.</h3>
 
 - 📂 Projetos em que já atuei:
--   - [PeladIn](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-2-ti5-0492100-peladinn)  
-
-  - [TempIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/tempo-livre-inutilizado)  
-  - [TerapIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/terapin)  
-  - [PeladIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/peladin)
-  - [BuildIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/buildin)  
+- [PeladIn](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-2-ti5-0492100-peladinn)  
+- [TempIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/tempo-livre-inutilizado)  
+- [TerapIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/terapin)  
+ - [PeladIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/peladin)
+ - [BuildIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/buildin)  
 
 
 - 📫 Como me encontrar: **saulojosens@gmail.com**
