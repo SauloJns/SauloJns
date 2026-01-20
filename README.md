@@ -1,8 +1,9 @@
 <h1 align="center">Olá, me chamo Saulo</h1>
 <h3 align="center">Sou estudante de Engenharia de Software, apaixonado por desenvolvimento e tecnologia. Aqui você encontra meus projetos e experiências.</h3>
 
-- 🔭 Atualmente, estou trabalhando no [PeladIn](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-2-ti5-0492100-peladinn)  
-- 📂 Projetos em que já atuei:  
+- 📂 Projetos em que já atuei:
+-   - [PeladIn](https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2025-2-ti5-0492100-peladinn)  
+
   - [TempIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/tempo-livre-inutilizado)  
   - [TerapIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/terapin)  
   - [PeladIn](https://github.com/orgs/ICEI-PUC-Minas-PPLES-TI/teams/peladin)
